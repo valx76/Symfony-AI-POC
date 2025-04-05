@@ -1,0 +1,4 @@
+Using the following tables, create an Entity Relation diagram of the database.
+Just give me the PlantUML code of the final result in plain text without any text around, nor any formatting, nor a code block.
+Also don't use any visibility modifier nor any separator:
+___DATA___
